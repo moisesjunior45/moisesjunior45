@@ -1,6 +1,6 @@
 ## Olá Sou o Moisés Júnior!
 
-- 🔭 Atualmente estou trabalhando como Técnico em informática
+- 🔭 Atualmente estou trabalhando como estagiário de Técnico em informática
 - 🌱 Estou aprendendo JavaScript
 - 📫 Como chegar até mim: moisesoliveirajr1@gmail.com
 
