@@ -1,6 +1,6 @@
 ## Olá Sou o Moisés Júnior!
 
-- 🌱 Estou aprendendo JavaScript
+- 🌱 Estou estudando React
 - 📫 Como chegar até mim: moisesoliveirajr1@gmail.com
 
 <div align="center">
