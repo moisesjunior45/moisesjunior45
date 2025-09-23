@@ -2,7 +2,7 @@
 
 *Desenvolvedor Front-end*
 
-- 🌱 Estou estudando React e node
+- 🌱 Estou estudando Node js e C#
 - 📫 Como chegar até mim: moisesoliveirajr1@gmail.com
 
 <div align="center">
