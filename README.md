@@ -1,6 +1,6 @@
 ## Olá Sou o Moisés Júnior!
 
-*Desenvolvedor Front-end*
+*Desenvolvedor Fullstack*
 
 - 🌱 Estou estudando Node js e C#
 - 📫 Como chegar até mim: moisesoliveirajr1@gmail.com
